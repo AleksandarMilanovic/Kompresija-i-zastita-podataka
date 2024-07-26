@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\Kompresija-i-zastita-podataka-Projekti\\Projekat2_C#\\Projekat2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A670D8-4D58-4D64-9756-3B1E73670F32}|Projekat2\\Projekat2.csproj|c:\\users\\aleks\\desktop\\kompresija-i-zastita-podataka-projekti\\projekat2_c#\\projekat2\\projekat2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A670D8-4D58-4D64-9756-3B1E73670F32}|Projekat2\\Projekat2.csproj|solutionrelative:projekat2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Kompresija-i-zastita-podataka-Projekti\\Projekat2_C#\\Projekat2\\Projekat2\\Program.cs",
+              "RelativeDocumentMoniker": "Projekat2\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Kompresija-i-zastita-podataka-Projekti\\Projekat2_C#\\Projekat2\\Projekat2\\Program.cs",
+              "RelativeToolTip": "Projekat2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:41:48.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
